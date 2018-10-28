@@ -1,3 +1,10 @@
+#include<stdio.h>
+
+int number,k,n;
+
+void main(){
+    void draw_top(),draw_bottom();
+    printf("������Ҫ������ͼ����С���ô���1С��17��������ʾ��\n");
     draw_bottom();
 }
 
